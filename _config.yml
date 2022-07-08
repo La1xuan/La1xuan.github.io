@@ -29,7 +29,7 @@ url: "https://La1xuan.github.io/"
 github_username:  La1xuan
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
