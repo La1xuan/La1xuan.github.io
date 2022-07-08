@@ -23,9 +23,10 @@ email: zhongq7@mcmaster.ca
 description: Follow the path of my heart owo
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://La1xuan.github.io/"
-
-github:  La1xuan
-linkedin: linkedin.com/in/qixuanzhong/
+minima:
+  social_links:
+    github:  La1xuan
+    linkedin: linkedin.com/in/qixuanzhong/
 header_pages:
   - projects.md
   - aboutme.md
