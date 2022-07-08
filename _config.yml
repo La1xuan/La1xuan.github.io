@@ -28,6 +28,11 @@ github_username:  La1xuan
 header_pages:
   - projects.md
   - aboutme.md
+defaults:
+  - scope:
+      path: "_images"
+    values:
+      image: true
 
 # Build settings
 theme: minima
