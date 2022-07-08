@@ -6,4 +6,4 @@ permalink: /aboutme/
 
 Not Implemented:)
 
-![spark](../_images/spark.jpg)
+![spark](_images/spark.jpg)
