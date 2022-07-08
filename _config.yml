@@ -26,8 +26,8 @@ url: "https://La1xuan.github.io/"
 #twitter_username: jekyllrb
 github_username:  La1xuan
 header_pages:
-  - aboutme.md
   - projects.md
+  - aboutme.md
 
 # Build settings
 theme: minima
