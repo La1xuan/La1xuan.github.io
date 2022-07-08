@@ -25,6 +25,9 @@ description: Follow the path of my heart owo
 url: "https://La1xuan.github.io/"
 #twitter_username: jekyllrb
 github_username:  La1xuan
+header_pages:
+  - aboutme.md
+  - projects.md
 
 # Build settings
 theme: minima
