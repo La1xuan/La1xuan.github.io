@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Change Language
-permalink: /Language/
+permalink: /Language
 ---
 
 ## My website is available in:
@@ -12,5 +12,5 @@ permalink: /Language/
 
 
 
-[Mandarin]: /mandarin  
+[Mandarin]: /mandarin-version-website
 [English]: /index 
