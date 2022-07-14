@@ -14,4 +14,4 @@ but worth it
 0w0
 
 
-[https://stackoverflow.com/questions/39657226/jekyll-redirect-link]: https://la1xuan.github.io/redirPost/
+[https://stackoverflow.com/questions/39657226/jekyll-redirect-link]: https://la1xuan.github.io/redirPost
