@@ -5,8 +5,12 @@ permalink: /Language/
 ---
 
 ## Language Available:
-[中文]  
+中文(Mandarin)   
 [English]  
+  
 
-[中文]: https://la1xuan.github.io/404
-[English]: https://la1xuan.github.io/
+
+
+
+[中文]: la1xuan.github.io/404  
+[English]: la1xuan.github.io/
