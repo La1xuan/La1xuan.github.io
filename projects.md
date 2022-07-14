@@ -4,6 +4,11 @@ title: Projects & Experience
 permalink: /projects_and_experience/
 ---
 
+# Projects 
+  
+
+
+
 ## TaskTimer
 Jul 2022  
 Currently private  
@@ -37,6 +42,17 @@ A continuous focusing on screen for over one hour can be harmful to the eyes. A 
 This project was developed on python, utilized pyautogui module to lock the user control and sends the notification.  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+# Experiences  
+
+
+
+## Software Develop Assistance (Intern) 
+### at Industrial and Commercial Bank of China, Longyan, Fujian, China
+Jun - Sep 2021  
+Work as a mentor's assistant, solving the technological questions arise by other employees from other departments, design and update the front-end interface that highlights the suspecious transactions, and help the clerks dealing with them.  
+
+
+  
 
 [github.com/La1xuan/steamAutoLogin]: github.com/La1xuan/steamAutoLogin  
 [github.com/La1xuan/AutoArknights]: github.com/La1xuan/AutoArknights  
