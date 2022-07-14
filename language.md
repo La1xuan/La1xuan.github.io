@@ -5,12 +5,12 @@ permalink: /Language/
 ---
 
 ## My website is available in:
-中文(Mandarin)   
+[Mandarin](中文) 
 [English]  
   
 
 
 
 
-[中文]: https://la1xuan.github.io/  
+[Mandarin]: /mandarin  
 [English]: /index 
