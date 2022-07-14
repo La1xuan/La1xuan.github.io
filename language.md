@@ -4,7 +4,7 @@ title: Change Language
 permalink: /Language/
 ---
 
-## Language Available:
+## My website is available in:
 中文(Mandarin)   
 [English]  
   
@@ -12,5 +12,5 @@ permalink: /Language/
 
 
 
-[中文]: (https://la1xuan.github.io/)  
-[English]: (https://la1xuan.github.io/)  
+[中文]: https://la1xuan.github.io/  
+[English]: https://la1xuan.github.io/ 

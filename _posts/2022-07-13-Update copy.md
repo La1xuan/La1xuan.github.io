@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Planning to make projects to open source"
+date:   2022-07-13 15:56:37 -0400
+---
+
+I wrote a few personal projects before, such as the TimeNotifier I am currently using, forcing me to take a break every hour(it locks my computer every hour, more description on [Projects & Experience]). I am revisiting them, and I can't wait to make them open source.  
+0w0  
+
+[Projects & Experience]: https://la1xuan.github.io/projects_and_experience/
