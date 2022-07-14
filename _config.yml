@@ -28,6 +28,7 @@ linkedin_username: qixuanzhong
 header_pages:
   - projects.md
   - aboutme.md
+  - language.md
 defaults:
   - scope:
       path: "_images"
