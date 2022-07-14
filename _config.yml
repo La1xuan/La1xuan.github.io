@@ -39,6 +39,7 @@ defaults:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 include:
  - _images
 # Exclude from processing.
