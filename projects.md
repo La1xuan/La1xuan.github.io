@@ -54,6 +54,6 @@ Work as a mentor's assistant, solving the technological questions arise by other
 
   
 
-[github.com/La1xuan/steamAutoLogin]: github.com/La1xuan/steamAutoLogin  
-[github.com/La1xuan/AutoArknights]: github.com/La1xuan/AutoArknights  
-[github.com/La1xuan/La1xuan.github.io]: github.com/La1xuan/La1xuan.github.io
+[github.com/La1xuan/steamAutoLogin]: /steamAutoLogin  
+[github.com/La1xuan/AutoArknights]: /AutoArknights  
+[github.com/La1xuan/La1xuan.github.io]: /githubPage

@@ -13,4 +13,4 @@ permalink: /Language/
 
 
 [中文]: https://la1xuan.github.io/  
-[English]: https://la1xuan.github.io/ 
+[English]: /index 
