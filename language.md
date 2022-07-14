@@ -5,7 +5,7 @@ permalink: /Language/
 ---
 
 ## My website is available in:
-[Mandarin](中文) 
+[Mandarin] 中文   
 [English]  
   
 
