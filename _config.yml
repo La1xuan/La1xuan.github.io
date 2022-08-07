@@ -27,11 +27,10 @@ github_username:  La1xuan
 linkedin_username: qixuanzhong
 header_pages:
   - projects.md
-  - aboutme.html
   - language.md
 defaults:
   - scope:
-      path: "assets/_images"
+      path: "_images"
     values:
       image: true
 
@@ -41,7 +40,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 include:
- - assets
+ - assets/_images
+ - assets/_redirect
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
