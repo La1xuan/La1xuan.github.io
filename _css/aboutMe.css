@@ -2,159 +2,158 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure{margin:0;padding:0
 
 /* main */
 #main {
-    position: relative ;
-  }
-  
-  #main > .resume-item-wrapper {
-    position: relative ;
-    top: 0 ;
-    left: 0 ;
-    width: 600px ;
-    padding: 25px 0 40px ;
-    border-right: 1px solid #ededed ;
-  }
-  
-  #main .resume-item {
-    position: relative ;
-    padding: 0 60px ;
-    margin-bottom: 10px ;
-  }
-  #main .resume-item .inner {
-    padding-bottom: 30px ;
-    border-bottom: 1px solid #ededed ;
-  }
-  #main .resume-item h2 {
-    position: relative ;
-    top: -10px ;
-    right: 50px ;
-    z-index: 1 ;
-    width: 600px ;
-    height: 30px ;
-    padding: 0 30px ;
-    font-size: 24px ;
-    text-align: left ;
-    text-transform: capitalize ;
-  }
-  #main ul li {
-    position: relative ;
-    margin: 0 0 10px ;
-  }
-  
-  
-  /* experience */
-  .experience h3 {
-    font-size: 18px ;
-  }
-  .experience .company {
-    margin: 0 0 10px ;
-    color: #959595 ;
-    font-size: 13px ;
-    font-weight: normal ;
-  }
-  .experience .date {
-    position: absolute ;
-    top: 5px ;
-    right: 0 ;
-    color: #bbb ;
-    font-size: 12px ;
-  }
-  .experience .detail {
-    font-size: 14px ;
-  }
-  
-  
-  /* project */
-  .project ul li {
-    font-size: 0 ;
-    line-height: 16px ;
-  }
-  .project h3 {
-    display: inline ;
-    color: #666 ;
-    font-size: 16px ;
-  }
-  .project h3::after {
-    content: ' - ' ;
-  }
-  .project .detail {
-    display: inline ;
-    font-size: 14px ;
-  }
-  .project .tags {
-    font-size: 12px ;
-    color: #999 ;
-  }
-  
-  #side {
-    position: absolute;
-    top: 160px ;
-    right: 50px ;
-    z-index: 1 ;
-    width: 330px ;
-    height: 30px ;
-  }
-  #side > .resume-item-wrapper {
-    position: relative ;
-    top: 0 ;
-    left: 0 ;
-    width: 381px ;
-    padding: 25px 0 40px ;
-    border-right: 1px solid #ededed ;
-  }
-  
-  #side .resume-item {
-    position: relative ;
-    padding: 0 60px ;
-    margin-bottom: 10px ;
-  }
-  #side .resume-item .inner {
-    padding-bottom: 30px ;
-    border-bottom: 1px solid #ededed ;
-  }
-  #side .resume-item h2 {
-    position: relative ;
-    top: -10px ;
-    right: 50px ;
-    z-index: 1 ;
-    width: 240px ;
-    height: 30px ;
-    padding: 0 30px ;
-    font-size: 24px ;
-    text-align: left ;
-    text-transform: capitalize ;
-  }
-  #side ul li {
-    position: relative ;
-    margin: 0 0 10px ;
-  }
-  
-  /* experience */
-  .education h3 {
-    font-size: 18px ;
-  }
-  .school {
-    margin: 0 ;
-    color: #959595 ;
-    font-size: 13px ;
-    font-weight: normal ;
-  }
-  .course {
-    margin: 0 0 10px ;
-    font-size: 13px ;
-    font-weight: normal ;
-  }
-  .date2 {
-    position: relative ;
-    top: -5px ;
-    color: #bbb ;
-    font-size: 12px ;
-  }
-  .detail2 {
-    font-size: 12px ;
-  }
-  
-  .psnweb {
-    text-decoration: underline;
-  }
-  
-  
+  position: relative ;
+}
+
+#main > .resume-item-wrapper {
+  position: relative ;
+  top: 0 ;
+  left: 0 ;
+  width: 600px ;
+  padding: 25px 0 40px ;
+  border-right: 1px solid #ededed ;
+}
+
+#main .resume-item {
+  position: relative ;
+  padding: 0 60px ;
+  margin-bottom: 10px ;
+}
+#main .resume-item .inner {
+  padding-bottom: 30px ;
+  border-bottom: 1px solid #ededed ;
+}
+#main .resume-item h2 {
+  position: relative ;
+  top: -10px ;
+  right: 50px ;
+  z-index: 1 ;
+  width: 600px ;
+  height: 30px ;
+  padding: 0 30px ;
+  font-size: 24px ;
+  text-align: left ;
+  text-transform: capitalize ;
+}
+#main ul li {
+  position: relative ;
+  margin: 0 0 10px ;
+}
+
+
+/* experience */
+.experience h3 {
+  font-size: 18px ;
+}
+.experience .company {
+  margin: 0 0 10px ;
+  color: #959595 ;
+  font-size: 13px ;
+  font-weight: normal ;
+}
+.experience .date {
+  position: absolute ;
+  top: 5px ;
+  right: 0 ;
+  color: #bbb ;
+  font-size: 12px ;
+}
+.experience .detail {
+  font-size: 14px ;
+}
+
+
+/* project */
+.project ul li {
+  font-size: 0 ;
+  line-height: 16px ;
+}
+.project h3 {
+  display: inline ;
+  color: #666 ;
+  font-size: 16px ;
+}
+.project h3::after {
+  content: ' - ' ;
+}
+.project .detail {
+  display: inline ;
+  font-size: 14px ;
+}
+.project .tags {
+  font-size: 12px ;
+  color: #999 ;
+}
+
+#side {
+  position: relative;
+  top: 0px ;
+  right: 0px ;
+  z-index: 1 ;
+  width: 720px ;
+  height: auto ;
+}
+#side > .resume-item-wrapper {
+  position: relative ;
+  top: 0 ;
+  left: 0 ;
+  width: auto ;
+  padding: 25px 0 40px ;
+  border-right: 1px solid #ededed ;
+}
+
+#side .resume-item {
+  position: relative ;
+  padding: 0 60px ;
+  margin-bottom: 10px ;
+}
+#side .resume-item .inner {
+  padding-bottom: 30px ;
+  border-bottom: 1px solid #ededed ;
+}
+#side .resume-item h2 {
+  position: relative ;
+  top: -10px ;
+  right: 50px ;
+  z-index: 1 ;
+  width: auto ;
+  height: 30px ;
+  padding: 0 30px ;
+  font-size: 24px ;
+  text-align: left ;
+  text-transform: capitalize ;
+}
+#side ul li {
+  position: relative ;
+  margin: 0 0 10px ;
+}
+
+/* experience */
+.education h3 {
+  font-size: 18px ;
+}
+.school {
+  margin: 0 ;
+  color: #666 ;
+  font-size: 13px ;
+  font-weight: normal ;
+}
+.course {
+  margin: 0 0 10px ;
+  font-size: 13px ;
+  font-weight: normal ;
+}
+.date2 {
+  position: relative ;
+  top: -5px ;
+  color: #bbb ;
+  font-size: 12px ;
+}
+.detail2 {
+  font-size: 12px ;
+}
+
+.psnweb {
+  text-decoration: underline;
+}
+
