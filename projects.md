@@ -49,7 +49,8 @@ This project was developed on python, utilized pyautogui module to lock the user
 ### Software Develop Assistance (Intern) 
 #### —at Industrial and Commercial Bank of China, Longyan, Fujian, China
 Jun - Sep 2021  
-Work as a mentor's assistant, solving the technological questions arise by other employees from other departments, design and update the front-end interface that highlights the suspecious transactions, and help the clerks dealing with them.  
+Work with a mentor, solving the technological questions arise by other employees from other departments, design and update the front-end interface that highlights the suspecious transactions, and help the clerks dealing with them.
+
 
 
   
