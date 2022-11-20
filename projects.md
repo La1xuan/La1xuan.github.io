@@ -28,6 +28,12 @@ Open Source at [github.com/La1xuan/steamAutoLogin]
 Description waiting to be completed.  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+### Smart Home integration
+Mar 2022
+Currently private  
+Developed the smart home system to automatically turn on and off the light and lifting the curtain. Designed the circuit and implemented the embedded system on Arduino Uno to communicate via nrf24 wireless module and control servos and motors for automatic lighting and curtain control.
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ### AutoArknight
 Jan 2022  
 Open Source at [github.com/La1xuan/AutoArknights]  
@@ -41,6 +47,15 @@ Currently private
 A continuous focusing on screen for over one hour can be harmful to the eyes. A timer was sharped to remind the user every hour after started, and lock the mouse input after the norification, forcing the user to take a break, protecting the user's eyes.  
 This project was developed on python, utilized pyautogui module to lock the user control and sends the notification.  
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+### Surveying vehicle
+Dec 2017  
+Currently private  
+Leading a team of 4, designed a room serveying vehicle to circle the room and determine the area of the room for large areas like stages or gym.
+Designed the circuit and implemented the embedded system on Arduino Uno with ultrasonic sensor, servos and motors to circle around the room and calculate the area of the room.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## Experiences  
 
