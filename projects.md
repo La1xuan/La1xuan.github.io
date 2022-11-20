@@ -29,7 +29,7 @@ Description waiting to be completed.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Smart Home integration
-Mar 2022
+Mar 2022  
 Currently private  
 Developed the smart home system to automatically turn on and off the light and lifting the curtain. Designed the circuit and implemented the embedded system on Arduino Uno to communicate via nrf24 wireless module and control servos and motors for automatic lighting and curtain control.
 ------------------------------------------------------------------------------------------------------------------------------------------
