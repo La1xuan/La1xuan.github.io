@@ -7,7 +7,19 @@ permalink: /projects_and_experience/
 ## Projects 
   
 
+### Ray Tracing Rendering Engine
+Dec 2022  
+Course Assignment  
+Designed a scene render engine to render spheres with diffuse or spectular material using ray tracing algorithms.  
+This graphic engine was implemented using C++ and demostrated advanced ray tracing skills.  
+------------------------------------------------------------------------------------------------------------------------------------------
 
+### Blendshapes for Face Expressions with Lighting
+Dec 2022  
+Course Assignment  
+Developed the engine that blending facial expressions and producing new facial expressions.  
+Tis graphic engine utilized C++, OpenGL and glm module to produce different lighting effect.  
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### TaskTimer
 Jul 2022  
